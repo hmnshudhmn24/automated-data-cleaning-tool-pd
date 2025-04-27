@@ -32,7 +32,3 @@ streamlit run app/main.py
 
 - Cleaned dataset download option
 - Full interactive EDA report
-
----
-
-✨ Made with Pandas, Streamlit, and YData Profiling.
